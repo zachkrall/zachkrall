@@ -5,5 +5,5 @@ Hello, I'm Zach!
 * Part-time Faculty at Parsons School of Design for [MS Data Visualization](https://github.com/visualizedata)
 
 *Education*
-MFA Design + Technology, Parsons School of Design
-BFA Photography, School of Visual Arts
+* MFA Design + Technology, Parsons School of Design
+* BFA Photography, School of Visual Arts
